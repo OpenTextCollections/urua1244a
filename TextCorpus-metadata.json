@@ -7,15 +7,15 @@
     ],
     "dc:bibliographicCitation": "Christian Döhler (ed.), Speaking the map: Komnzo Texts (Open Text Collections 1). Berlin: Language Science Press. https://zenodo.org/records/14214653",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#TextCorpus",
-    "dc:description": "This collection of fourteen texts in Komnzo offers an insight into the language and culture of the Farem people, their storytelling tradition, oral history, mythology and everyday life. It contains stories from nine narrators, which were transcribed, translated and analysed by the researcher with the help of the Komnzo language committee. All texts are presented in a parallel text version arranged in columns (Komnzo/English) and in an interlinearised and glossed version. The book focuses thematically on landscape, place names and locality. It includes a description and analysis of the way Komnzo speakers conceptualise this semantic domain.\nThis publication is complemented by a dataset available from https://doi.org/10.5281/zenodo.14267762",
-    "dc:identifier": "wara1294a",
+    "dc:description": "This collection of ten texts in Uruangnirin offers insights into the language and culture of the inhabitants of the Karas Islands in eastern Indonesia. All stories relate to life and death. They range from narratives about important life events such as circumcision, engagement and burial to accounts of natural and supernatural threats to the environment of the Uruangnirin speakers.",
+    "dc:identifier": "urua1244a",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
-    "dc:title": "Speaking the map: Komnzo texts ",
-    "dcat:accessURL": "https://doi.org/10.5281/zenodo.14267762",
+    "dc:title": "Life and death on Karas: Ten Uruangnirin texts",
+    "dcat:accessURL": "https://doi.org/10.5281/zenodo.20132791",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/OpenTextCollections/wara1294a",
+            "rdf:about": "https://github.com/OpenTextCollections/urua1244a",
             "rdf:type": "prov:Entity",
             "dc:created": "v1.1",
             "dc:title": "Repository"
@@ -31,13 +31,13 @@
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "wara1294a",
+    "rdf:ID": "urua1244a",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
             "dc:description": "Annotated clauses of the texts in the collection.",
-            "dc:extent": 1970,
+            "dc:extent": 1412,
             "tableSchema": {
                 "columns": [
                     {
@@ -163,7 +163,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
             "dc:description": "A collection of texts from one language, with shared provenance.",
-            "dc:extent": 8,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
@@ -241,7 +241,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
             "dc:description": "Media resources for the texts.",
-            "dc:extent": 3,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
