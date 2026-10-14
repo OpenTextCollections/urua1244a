@@ -1,5 +1,5 @@
 # Open Text Collections #9
-## Even texts
+## Uruangnirin texts
 
 This collection features 10 texts from two different dialects of the Uruangnirin language, spoken in Indonesia.
 
